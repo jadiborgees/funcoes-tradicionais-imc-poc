@@ -12,7 +12,7 @@
 ## Estrutura do repositório
 - `index.html` — página simples para executar os exemplos.
 - `script.js` — código comentado com exemplos básicos e avançados.
-- `desafio.md` — mini-desafio proposto para colegas.
+- `desafio.md` — mini-desafio conversão.
 
 ## Exemplos incluídos
 1. Função básica (sem retorno) — mostra escopo local.
